@@ -1,0 +1,14 @@
+C:\Users\97252\Desktop\UniManage\UniManage\bin\Debug\net8.0\UniManage.exe
+C:\Users\97252\Desktop\UniManage\UniManage\bin\Debug\net8.0\UniManage.deps.json
+C:\Users\97252\Desktop\UniManage\UniManage\bin\Debug\net8.0\UniManage.runtimeconfig.json
+C:\Users\97252\Desktop\UniManage\UniManage\bin\Debug\net8.0\UniManage.dll
+C:\Users\97252\Desktop\UniManage\UniManage\bin\Debug\net8.0\UniManage.pdb
+C:\Users\97252\Desktop\UniManage\UniManage\obj\Debug\net8.0\UniManage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\97252\Desktop\UniManage\UniManage\obj\Debug\net8.0\UniManage.AssemblyInfoInputs.cache
+C:\Users\97252\Desktop\UniManage\UniManage\obj\Debug\net8.0\UniManage.AssemblyInfo.cs
+C:\Users\97252\Desktop\UniManage\UniManage\obj\Debug\net8.0\UniManage.csproj.CoreCompileInputs.cache
+C:\Users\97252\Desktop\UniManage\UniManage\obj\Debug\net8.0\UniManage.dll
+C:\Users\97252\Desktop\UniManage\UniManage\obj\Debug\net8.0\refint\UniManage.dll
+C:\Users\97252\Desktop\UniManage\UniManage\obj\Debug\net8.0\UniManage.pdb
+C:\Users\97252\Desktop\UniManage\UniManage\obj\Debug\net8.0\UniManage.genruntimeconfig.cache
+C:\Users\97252\Desktop\UniManage\UniManage\obj\Debug\net8.0\ref\UniManage.dll
